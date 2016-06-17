@@ -1,0 +1,24 @@
+-classpath
+'C:/Users/Manifest/.m2/repository/junit/junit/4.8.2/junit-4.8.2.jar;C:/Users/Manifest/.m2/repository/com/cdyne/weather-ws/1.0/weather-ws-1.0.jar'
+-encoding
+'Cp1252'
+-protected
+-sourcepath
+'C:/devl/workspaces/bootcamp/3_Mavenize/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2016. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/devl/workspaces/bootcamp/3_Mavenize/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'my-app 1 API'
+-linkoffline
+'http://docs.oracle.com/javase/8/docs/api' 'C:/devl/workspaces/bootcamp/3_Mavenize/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'my-app 1 API'
