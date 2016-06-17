@@ -9,6 +9,7 @@ import pokerHandDefenitions.PokerTier;
 
 public class Hand implements HasPokerTier{
 	//THIS IS MY COOL NEW CHANGE
+	//THIS IS MY NEXT COOL COMMIT
 	
 	public ArrayList<HandStrengthUnit> handStrengths = new ArrayList<>();
 	
